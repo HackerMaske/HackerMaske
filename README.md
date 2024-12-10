@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HackerMaske
-- 👀 I’m interested in ...making app better
+- 👋 Hi, I’m @hackermaske
+- 👀 I’m interested in ... programming and penetrations
 - 🌱 I’m currently learning ...how to develop apps
-- 💞️ I’m looking to collaborate on ...app development 
+- 💞️ I’m looking to collaborate on ... hackinh
 - 📫 How to reach me ... maxmalone80@gmail.com
 
 <!---
